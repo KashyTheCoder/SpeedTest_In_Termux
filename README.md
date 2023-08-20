@@ -22,6 +22,6 @@ cd SpeedTest_In_Termux
 Forth Execute The Code By
 
 ```
-python SpeedTest.py
+python Speedtest.py
 ```
 
