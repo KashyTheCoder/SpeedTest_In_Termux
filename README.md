@@ -10,12 +10,13 @@ pip install speedtest-cli colorama pyfiglet
 Second Clone the Git
 
 ```
+git clone https://github.com/KashyTheCoder/SpeedTest_In_Termux/
 ```
 
 Third Open The Folder
 
 ```
-
+cd SpeedTest_In_Termux
 ```
 
 Forth Execute The Code By
